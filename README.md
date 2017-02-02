@@ -1,14 +1,14 @@
 # GUIDE OF CONTRIBUTE - CODHAB
 
-[Comment] (#write-comments)
-[Comment] (#dry)
-[Comment] (#ddd)
-[Comment] (#test!)
-[Comment] (#commits)
-[Comment] (#today?)
-[Comment] (#write-documentation)
-[Comment] (#best-pratices)
-[Comment] (#issues)
+[Write comments] (#write-comments)
+[Use DRY] (#dry)
+[Implement DDD] (#ddd)
+[Test!] (#test!)
+[Commits] (#commits)
+[Today?] (#today?)
+[Write Documentation] (#write-documentation)
+[Best pratices] (#best-pratices)
+[Issues] (#issues)
 
 ##Write comments
 
